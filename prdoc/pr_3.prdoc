@@ -13,4 +13,6 @@ doc:
 crates:
 - name: emulated-integration-tests-common
   bump: major
+- name: coretime-rococo-emulated-chain
+  bump: major
 
