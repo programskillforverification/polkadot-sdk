@@ -6,7 +6,7 @@ on:
     paths:
       - prdoc/*.prdoc
 env:
-  TOOLCHAIN: nightly-2024-03-01
+  TOOLCHAIN: nightly-2024-04-10
 
 jobs:
   check-semver:
