@@ -12,4 +12,4 @@ doc:
 
 crates:
 - name: emulated-integration-tests-common
-  bump: minor
+  bump: major
